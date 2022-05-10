@@ -25,3 +25,4 @@ In this project, the user should:
 ### Additional Requirements: 
 - There should be a display that takes the user input data and prints a story.
 - The game should loop so the user can create 10 stories.
+- There should be atleast two tests for this project.
