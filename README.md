@@ -4,7 +4,6 @@ During this activity you will review the PR that correlates with your breakout r
 
 Remember to look for: 
 - Are there circumstances that will cause this code to fail unexpectedly?
-- Is the code tested adequately?
 - Does it match requirements?
 - Is this code efficient?
 - Are there any bugs/errors ?
@@ -25,4 +24,3 @@ In this project, the user should:
 ### Additional Requirements: 
 - There should be a display that takes the user input data and prints a story.
 - The game should loop so the user can create 10 stories.
-- There should be atleast two tests for this project.
